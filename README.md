@@ -1,2 +1,2 @@
-Credit Operations Analytics Project
+Credit Operations Analytics Project :
 A production-aligned credit risk and operations analytics project focused on improving data quality, enabling early delinquency detection, and reducing manual operational effort. Built using Python for data validation, PostgreSQL for SQL-driven risk metrics and prioritization logic, and Power BI for operational dashboards, simulating real-world Credit Ops and collections workflows.
