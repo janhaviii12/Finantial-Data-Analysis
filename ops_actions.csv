@@ -1,0 +1,21 @@
+loan_id,action_date,action_type,handled_by,outcome
+L002,1/19/2023,SMS Reminder,auto,Paid
+L004,1/20/2023,Call,manual,Promise to Pay
+L007,2/16/2023,Escalation,manual,Default
+L009,1/31/2023,SMS Reminder,auto,Paid
+L010,1/29/2023,Call,manual,Paid
+L012,2/3/2023,SMS Reminder,auto,Paid
+L015,2/21/2023,Escalation,manual,Default
+L017,1/23/2023,SMS Reminder,auto,Paid
+L019,1/30/2023,Call,manual,Paid
+L004,2/1/2023,Follow-up Call,manual,Paid
+L002,2/5/2023,SMS Reminder,auto,Paid
+L009,2/10/2023,Call,manual,Paid
+L010,2/2/2023,SMS Reminder,auto,Paid
+L012,2/10/2023,Call,manual,Paid
+L017,2/5/2023,SMS Reminder,auto,Paid
+L019,2/12/2023,SMS Reminder,auto,Paid
+L007,3/1/2023,Escalation,manual,Default
+L015,3/5/2023,Legal Notice,manual,Default
+L004,2/10/2023,SMS Reminder,auto,Paid
+L002,2/15/2023,SMS Reminder,auto,Paid

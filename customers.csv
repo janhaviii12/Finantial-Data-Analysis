@@ -1,0 +1,21 @@
+customer_id,employment_length,annual_income,credit_score,home_ownership,verification_status
+C001,5 years,650000,720,RENT,Verified
+C002,2 years,420000,680,OWN,Not Verified
+C003,10+ years,900000,760,MORTGAGE,Verified
+C004,<1 year,300000,640,RENT,Verified
+C005,3 years,550000,700,OWN,Verified
+C006,7 years,800000,740,MORTGAGE,Verified
+C007,1 year,350000,660,RENT,Not Verified
+C008,4 years,600000,710,OWN,Verified
+C009,6 years,750000,730,MORTGAGE,Verified
+C010,2 years,400000,670,RENT,Verified
+C011,8 years,820000,750,OWN,Verified
+C012,5 years,500000,690,RENT,Not Verified
+C013,3 years,480000,685,RENT,Verified
+C014,9 years,880000,770,MORTGAGE,Verified
+C015,<1 year,320000,630,RENT,Not Verified
+C016,6 years,720000,725,OWN,Verified
+C017,4 years,580000,705,RENT,Verified
+C018,10+ years,950000,780,OWN,Verified
+C019,1 year,360000,650,RENT,Not Verified
+C020,7 years,810000,745,MORTGAGE,Verified
